@@ -18,7 +18,7 @@ Ensure that `terraform` is installed on your path and matches or exceeds the req
 make tidy && make test
 ```
 
-__REPLACE ME__: `terraform-docs markdown table ./`
+__REPLACE ME__: `terraform-docs markdown table ./ --sort-by required`
 
 # Copyright and license
 
