@@ -1,4 +1,4 @@
-[![Release][release-image]][release] [![CI][ci-image]][ci] [![License][license-image]][license]
+[![Release][release-image]][release] [![CI][ci-image]][ci] [![License][license-image]][license] [![Registry][registry-image]][registry] [![Source][source-image]][source]
 
 # terraform-PROJECT_NAME
 
@@ -41,3 +41,9 @@ limitations under the License.
 
 [license]: https://www.apache.org/licenses/LICENSE-2.0
 [license-image]: https://img.shields.io/badge/license-Apache--2-blue.svg?style=flat
+
+[registry]: https://registry.terraform.io/modules/snowplow-devops/PROJECT_NAME/PROVIDER/latest
+[registry-image]: https://img.shields.io/static/v1?label=Terraform&message=Registry&color=7B42BC&logo=terraform
+
+[source]: https://github.com/snowplow/snowplow
+[source-image]: https://img.shields.io/static/v1?label=Snowplow&message=PROJECT%20NAME&color=0E9BA4&logo=GitHub
