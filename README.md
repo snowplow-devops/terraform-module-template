@@ -22,7 +22,7 @@ __REPLACE ME__: `terraform-docs markdown table ./ --sort-by required`
 
 # Copyright and license
 
-The PROJECT_NAME project is Copyright 2021-2021 Snowplow Analytics Ltd.
+The PROJECT_NAME project is Copyright 2022-2022 Snowplow Analytics Ltd.
 
 Licensed under the [Apache License, Version 2.0][license] (the "License");
 you may not use this software except in compliance with the License.
