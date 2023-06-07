@@ -1,6 +1,6 @@
 [![Release][release-image]][release] [![CI][ci-image]][ci] [![License][license-image]][license] [![Registry][registry-image]][registry] [![Source][source-image]][source]
 
-# terraform-PROJECT_NAME
+# terraform-PROJECT_FULL_NAME
 
 A Terraform module for EXPLAIN YOURSELF.
 
@@ -22,7 +22,7 @@ __REPLACE ME__: `terraform-docs markdown table ./ --sort-by required`
 
 # Copyright and license
 
-The PROJECT_NAME project is Copyright 2022-2022 Snowplow Analytics Ltd.
+The PROJECT__NAME_WITH_SPACES project is Copyright 2023-present Snowplow Analytics Ltd.
 
 Licensed under the [Apache License, Version 2.0][license] (the "License");
 you may not use this software except in compliance with the License.
