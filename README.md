@@ -24,7 +24,7 @@ __REPLACE ME__: `terraform-docs markdown table ./ --sort-by required`
 
 The PROJECT__NAME_WITH_SPACES project is Copyright 2023-present Snowplow Analytics Ltd.
 
-Licensed under the [Apache License, Version 2.0][license] (the "License");
+Licensed under the [Snowplow Community License Agreement, Version 1.0][license] (the "License");
 you may not use this software except in compliance with the License.
 
 Unless required by applicable law or agreed to in writing, software
@@ -39,8 +39,8 @@ limitations under the License.
 [ci]: https://github.com/snowplow-devops/terraform-PROJECT_NAME/actions?query=workflow%3Aci
 [ci-image]: https://github.com/snowplow-devops/terraform-PROJECT_NAME/workflows/ci/badge.svg
 
-[license]: https://www.apache.org/licenses/LICENSE-2.0
-[license-image]: https://img.shields.io/badge/license-Apache--2-blue.svg?style=flat
+[license]: https://docs.snowplow.io/community-license-1.0/
+[license-image]: https://img.shields.io/badge/license-Snowplow--Community--License--v1-blue.svg?style=flat
 
 [registry]: https://registry.terraform.io/modules/snowplow-devops/PROJECT_NAME/PROVIDER/latest
 [registry-image]: https://img.shields.io/static/v1?label=Terraform&message=Registry&color=7B42BC&logo=terraform
