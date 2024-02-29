@@ -22,16 +22,9 @@ __REPLACE ME__: `terraform-docs markdown table ./ --sort-by required`
 
 # Copyright and license
 
-The PROJECT__NAME_WITH_SPACES project is Copyright 2023-present Snowplow Analytics Ltd.
+Copyright 2024-present Snowplow Analytics Ltd.
 
-Licensed under the [Apache License, Version 2.0][license] (the "License");
-you may not use this software except in compliance with the License.
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+Licensed under the [Snowplow Limited Use License Agreement][license]. _(If you are uncertain how it applies to your use case, check our answers to [frequently asked questions][license-faq].)_
 
 [release]: https://github.com/snowplow-devops/terraform-PROJECT_NAME/releases/latest
 [release-image]: https://img.shields.io/github/v/release/snowplow-devops/terraform-PROJECT_NAME
@@ -39,8 +32,9 @@ limitations under the License.
 [ci]: https://github.com/snowplow-devops/terraform-PROJECT_NAME/actions?query=workflow%3Aci
 [ci-image]: https://github.com/snowplow-devops/terraform-PROJECT_NAME/workflows/ci/badge.svg
 
-[license]: https://www.apache.org/licenses/LICENSE-2.0
-[license-image]: https://img.shields.io/badge/license-Apache--2-blue.svg?style=flat
+[license]: https://docs.snowplow.io/limited-use-license-1.0/
+[license-image]: https://img.shields.io/badge/license-Snowplow--Limited--Use-blue.svg?style=flat
+[license-faq]: https://docs.snowplow.io/docs/contributing/limited-use-license-faq/
 
 [registry]: https://registry.terraform.io/modules/snowplow-devops/PROJECT_NAME/PROVIDER/latest
 [registry-image]: https://img.shields.io/static/v1?label=Terraform&message=Registry&color=7B42BC&logo=terraform
